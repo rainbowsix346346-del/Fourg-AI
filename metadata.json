@@ -1,0 +1,6 @@
+{
+  "name": "سازنده هوشمند",
+  "description": "وب‌اپ موبایل‌محور فارسی برای ساخت ابزار، برنامه و بازی کوچک با هوش مصنوعی و اشتراک‌گذاری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
